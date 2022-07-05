@@ -2,7 +2,7 @@
 
 Thank you for this project @Craftzdog
 
-https://links.craftz.dog/
+https://chrispydev-link.netlify.app/
 
 ![thumbnail](./thumb.png)
 
