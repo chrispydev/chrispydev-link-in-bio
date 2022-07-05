@@ -1,5 +1,6 @@
-Link-in-bio for Craftzdog
-=========================
+# Link-in-bio for Chrispydev
+
+Thank you for this project @Craftzdog
 
 https://links.craftz.dog/
 
