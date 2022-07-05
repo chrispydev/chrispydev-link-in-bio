@@ -4,7 +4,7 @@ Thank you for this project @Craftzdog
 
 https://links.craftz.dog/
 
-![thumbnail](./thumb.jpg)
+![thumbnail](./thumb.png)
 
 [Video tutorial available here](https://youtu.be/u71pHOyvBp0).
 
